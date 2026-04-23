@@ -1,5 +1,5 @@
-def add(a, b):
+def diff(a, b):
     """Return the diff of two numbers."""
-    return a + b
+    return a - b
 
 print(sum(5, 3))
